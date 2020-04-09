@@ -1,5 +1,7 @@
 {
     "status_code_I" : "FAIL",
+    "status_code_I_one" : "FAIL",
+    "status_code_I_two" : "FAIL",
     "network_state_I_L" : "https://letoucasino.net/login",
     "network_state_I_L_one" : "https://kuscore.com/login",
     "network_state_I_L_two" : "https://kuscore.com/signin"
